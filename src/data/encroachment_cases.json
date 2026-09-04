@@ -1,0 +1,47 @@
+[
+  {
+    "id": "enc-001",
+    "site": "Ahmedabad Walled City",
+    "zone": "Eastern Buffer Zone",
+    "detectedDate": "2024-01-14",
+    "type": "Unauthorized Construction",
+    "confidenceScore": 72,
+    "riskLevel": "MODERATE",
+    "status": "UNDER_INVESTIGATION",
+    "description": "AI image analysis detected new structural elements within the 100-meter heritage buffer zone. Possible new construction or significant renovation without heritage authority clearance.",
+    "location": { "lat": 23.0245, "lng": 72.5798 },
+    "aiExplanation": "Comparison of baseline and current imagery shows approximately 120 sq ft of new built area. Building material appears to be concrete block, inconsistent with traditional pol house construction. Requires official inspection.",
+    "recommendedAction": "Heritage inspector on-site verification. Coordinate with AMC Heritage Cell. Document violations if confirmed.",
+    "disclaimer": "This prototype provides AI-assisted screening and does not replace official heritage/legal inspection."
+  },
+  {
+    "id": "enc-002",
+    "site": "Modhera Sun Temple",
+    "zone": "Northern Buffer Zone",
+    "detectedDate": "2024-01-10",
+    "type": "Vegetation Encroachment",
+    "confidenceScore": 85,
+    "riskLevel": "LOW",
+    "status": "RESOLVED",
+    "description": "Significant vegetation growth detected adjacent to the northern boundary wall. Tree roots may be causing subsurface pressure on ancient stonework.",
+    "location": { "lat": 23.5875, "lng": 72.1315 },
+    "aiExplanation": "NDVI analysis shows 340% increase in vegetation density over 6-month period. Root system proximity to ancient foundation stones identified as potential risk.",
+    "recommendedAction": "ASI horticulture team to assess root proximity. Controlled clearance of vegetation maintaining a 5-meter safety zone.",
+    "disclaimer": "This prototype provides AI-assisted screening and does not replace official heritage/legal inspection."
+  },
+  {
+    "id": "enc-003",
+    "site": "Ahmedabad Walled City",
+    "zone": "Western Pol Area",
+    "detectedDate": "2024-01-08",
+    "type": "Structure Modification",
+    "confidenceScore": 68,
+    "riskLevel": "MODERATE",
+    "status": "UNDER_INVESTIGATION",
+    "description": "Suspected modification to facade of a listed heritage building. Change detection indicates possible replacement of traditional wooden elements with modern materials.",
+    "location": { "lat": 23.0218, "lng": 72.5701 },
+    "aiExplanation": "Surface texture analysis detects non-traditional material profile on 40% of the building facade. Color and reflectance patterns inconsistent with wood. Possible concrete or metal replacement of carved wooden jharokha elements.",
+    "recommendedAction": "Urgent inspection by heritage architect. Review building permits. Coordinate with Gujarat Heritage Conservation Committee.",
+    "disclaimer": "This prototype provides AI-assisted screening and does not replace official heritage/legal inspection."
+  }
+]

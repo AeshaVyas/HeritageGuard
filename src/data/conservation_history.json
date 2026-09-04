@@ -1,0 +1,54 @@
+[
+  {
+    "id": "report-001",
+    "type": "WEEKLY",
+    "generatedDate": "2024-01-14",
+    "period": "Jan 8-14, 2024",
+    "overallHealthScore": 68,
+    "conservationPriorityScore": 74,
+    "sites": {
+      "ahmedabad": { "healthScore": 72, "trend": "STABLE", "criticalIssues": 1 },
+      "modhera": { "healthScore": 63, "trend": "DECLINING", "criticalIssues": 2 }
+    },
+    "keyFindings": [
+      "Surya Kund stepwell showing accelerated deterioration — crack width increased 0.4mm over 7 days",
+      "Visitor density at Modhera Main Temple frequently exceeding 90% capacity on weekends",
+      "Possible unauthorized construction detected in Ahmedabad eastern buffer zone",
+      "Jama Masjid northern wall crack width approaching HIGH threshold",
+      "Moisture levels at Surya Kund remain elevated, increasing biological growth risk"
+    ],
+    "priorityActions": [
+      "Immediate structural assessment of Surya Kund stepwell",
+      "Implement visitor capacity controls at Modhera Main Temple",
+      "Heritage inspection of suspected construction in Ahmedabad buffer zone",
+      "Apply crack injection treatment to Jama Masjid northern wall"
+    ],
+    "recommendations": "Conservation efforts should be concentrated on Modhera Sun Temple in the coming weeks, particularly the Surya Kund area. Visitor management protocols need strengthening at both sites. Encroachment monitoring should be intensified in Ahmedabad.",
+    "generatedBy": "Conservation Reporting Agent + IBM Granite LLM"
+  },
+  {
+    "id": "report-002",
+    "type": "DAILY",
+    "generatedDate": "2024-01-15",
+    "period": "January 15, 2024",
+    "overallHealthScore": 70,
+    "conservationPriorityScore": 76,
+    "sites": {
+      "ahmedabad": { "healthScore": 72, "trend": "STABLE", "criticalIssues": 1 },
+      "modhera": { "healthScore": 65, "trend": "STABLE", "criticalIssues": 2 }
+    },
+    "keyFindings": [
+      "Morning sensor readings show elevated humidity at Surya Kund (78%)",
+      "Visitor count at Modhera Main Temple reached 97.5% capacity by 12:00",
+      "Jama Masjid crack width stable at 3.8mm — no further progression",
+      "All environmental parameters at Bhadra Fort within acceptable range"
+    ],
+    "priorityActions": [
+      "Activate visitor flow control at Modhera Main Temple",
+      "Continue monitoring Surya Kund moisture levels",
+      "Schedule crack injection for Jama Masjid this week"
+    ],
+    "recommendations": "Today's primary concern is visitor management at Modhera. Structural monitoring at Ahmedabad shows stable readings but Jama Masjid requires scheduled intervention.",
+    "generatedBy": "Conservation Reporting Agent + IBM Granite LLM"
+  }
+]

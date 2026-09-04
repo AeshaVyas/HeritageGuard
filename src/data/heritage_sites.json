@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ahmedabad-walled-city",
+    "name": "Ahmedabad Walled City",
+    "subtitle": "UNESCO World Heritage City",
+    "location": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "country": "India",
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "yearBuilt": "1411 CE",
+    "dynasty": "Muzaffarid Sultanate",
+    "founder": "Sultan Ahmed Shah I",
+    "area": "5.5 sq km",
+    "unescoYear": 2017,
+    "description": "Ahmedabad's historic walled city, founded in 1411 CE by Sultan Ahmed Shah I, is a UNESCO World Heritage Site representing over 600 years of architectural and cultural heritage. The city encompasses a remarkable blend of Hindu, Islamic, and Jain architectural traditions within its ancient walls.",
+    "historicalOverview": "The Walled City of Ahmedabad was the first city in India to be inscribed as a UNESCO World Heritage City in 2017. Founded by Sultan Ahmed Shah I in 1411 CE, the city developed as a prosperous trading centre. The city's urban layout, its traditional pols (residential clusters), mosques, temples, and stepwells reflect centuries of cultural synthesis.",
+    "architecture": {
+      "styles": ["Indo-Saracenic", "Mughal", "Hindu", "Jain"],
+      "features": ["Intricate wooden facades", "Ornate jaali screens", "Carved balconies", "Courtyard houses", "Traditional pols"],
+      "notableBuildings": ["Jama Masjid", "Sidi Saiyyed Mosque", "Bhadra Fort", "Adalaj Stepwell", "Rani Rupamati Mosque"]
+    },
+    "polHouses": {
+      "description": "Pols are traditional residential clusters unique to Ahmedabad, representing a sophisticated urban planning model. Each pol is a self-contained neighbourhood with its own gates, community wells, and shared spaces.",
+      "features": ["Shared community spaces", "Traditional wooden architecture", "Intricate carvings", "Natural ventilation systems", "Community governance"]
+    },
+    "culturalSignificance": "The Walled City represents a living heritage where traditional crafts, festivals, and community life continue alongside ancient structures. It is home to significant festivals including Uttarayan, Navratri, and Eid celebrations.",
+    "conservationRisks": [
+      "Structural deterioration of wooden facades",
+      "Increasing vehicular traffic causing vibration damage",
+      "Urban encroachment in buffer zones",
+      "Aging infrastructure",
+      "Rising visitor footfall",
+      "Inadequate drainage systems"
+    ],
+    "visitorInfo": {
+      "bestTime": "October to March",
+      "timings": "Heritage walk: 7:30 AM - 9:30 AM daily",
+      "capacity": 1000,
+      "entryFee": "₹50 for guided heritage walk",
+      "facilities": ["Heritage walk guides", "Information centres", "Restrooms", "Parking areas"]
+    },
+    "healthScore": 72,
+    "currentVisitors": 840,
+    "riskLevel": "MODERATE",
+    "activeAlerts": 3
+  },
+  {
+    "id": "modhera-sun-temple",
+    "name": "Modhera Sun Temple",
+    "subtitle": "11th Century Marvel of Solanki Architecture",
+    "location": {
+      "city": "Modhera",
+      "state": "Gujarat",
+      "country": "India",
+      "lat": 23.5858,
+      "lng": 72.1322
+    },
+    "yearBuilt": "1026 CE",
+    "dynasty": "Solanki Dynasty (Chaulukya)",
+    "founder": "King Bhimdev I",
+    "area": "Temple complex: 2.5 acres",
+    "protectedBy": "Archaeological Survey of India",
+    "description": "The Modhera Sun Temple, built in 1026 CE by the Solanki king Bhimdev I, is one of the finest examples of ancient Indian temple architecture. The temple is renowned for its intricate stone carvings, astronomical alignment, and the magnificent Surya Kund stepwell.",
+    "historicalOverview": "Built during the reign of the Solanki dynasty, the Sun Temple at Modhera was designed with extraordinary precision. The temple complex is aligned such that the first rays of the sun illuminate the sanctum at the time of the equinoxes. After the invasion of Mahmud of Ghazni, the temple was never used for worship again but has been preserved as a national heritage monument.",
+    "architecture": {
+      "styles": ["Maru-Gurjara", "Solanki/Chaulukya"],
+      "features": ["Surya Kund (stepwell)", "Sabha Mandap (assembly hall)", "Gudha Mandap (closed hall)", "Garbhagriha (sanctum)", "Torana (gateway arches)"],
+      "carvings": ["Apsaras (celestial dancers)", "Surya (Sun God) images", "Floral motifs", "Animal friezes", "Erotic sculptures", "Battle scenes"]
+    },
+    "suryaKund": {
+      "description": "The Surya Kund (Rama Kunda) is a magnificent stepwell with 108 small shrines arranged in tiers around its perimeter. The geometric precision and artistic detail make it one of India's most beautiful stepwells.",
+      "steps": 108,
+      "shrines": 108,
+      "alignment": "Aligned with the sun's position during equinoxes"
+    },
+    "culturalSignificance": "The Sun Temple is a testament to the advanced astronomical knowledge and artistic mastery of the Solanki dynasty. It celebrates Surya (the Sun God) and the cosmic order, reflecting the sophisticated cultural and scientific achievements of medieval Gujarat.",
+    "conservationRisks": [
+      "Stone weathering from monsoon exposure",
+      "Salt crystallization damaging carvings",
+      "Algae and biological growth on stone surfaces",
+      "Visitor crowding causing surface abrasion",
+      "Inadequate drainage around Surya Kund",
+      "Vibration from nearby road traffic"
+    ],
+    "visitorInfo": {
+      "bestTime": "January and July (Uttarayan and Modhera Dance Festival)",
+      "timings": "6:00 AM - 6:00 PM",
+      "capacity": 700,
+      "entryFee": "₹25 for Indians, ₹300 for foreign nationals",
+      "facilities": ["Archaeological Survey guide", "Museum", "Sound and light show", "Parking"]
+    },
+    "healthScore": 68,
+    "currentVisitors": 620,
+    "riskLevel": "HIGH",
+    "activeAlerts": 5
+  }
+]
