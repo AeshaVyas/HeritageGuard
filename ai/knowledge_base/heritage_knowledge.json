@@ -1,0 +1,131 @@
+{
+  "ahmedabad_walled_city": {
+    "name": "Ahmedabad Walled City",
+    "unescoStatus": "UNESCO World Heritage City (2017) — First in India",
+    "founded": "1411 CE by Sultan Ahmed Shah I of the Muzaffarid Sultanate",
+    "location": "Ahmedabad, Gujarat, India (23.02°N 72.57°E)",
+    "significance": "Ahmedabad's historic walled city is an outstanding example of Hindu-Muslim-Jain architectural and cultural synthesis spanning over 600 years.",
+    "keyFacts": [
+      "Founded in 1411 CE — over 600 years of continuous habitation",
+      "First Indian city inscribed as UNESCO World Heritage City (2017)",
+      "Famous for intricate wooden architecture in traditional 'pol' neighbourhoods",
+      "Houses significant Islamic, Hindu, and Jain monuments",
+      "Traditional craft traditions including patola weaving, block printing, and bead work still practised"
+    ],
+    "architecture": {
+      "styles": ["Indo-Saracenic", "Mughal", "Gujarati", "Jain"],
+      "polSystem": "Pols are traditional residential clusters, a unique urban form of Ahmedabad. Each pol has a large entrance gate, bird feeding platforms, community wells, and shared gathering spaces. The houses feature intricately carved wooden facades with jharokhas (oriel windows) and unique ventilation systems.",
+      "materials": ["Teak wood", "Sandstone", "Lime mortar", "Brick"],
+      "keyBuildings": {
+        "Jama Masjid": "Built in 1423 by Ahmed Shah I. Features 260 columns and 15 domes. One of the finest examples of Gujarati-Islamic architecture.",
+        "Sidi Saiyyed Mosque": "Built in 1573. Famous for its intricately carved stone lattice (jaali) windows depicting the Tree of Life — among the finest stone carvings in India.",
+        "Bhadra Fort": "Built in 1411 by Ahmed Shah. The original fortified palace complex from which the city grew.",
+        "Adalaj Stepwell": "5-storey stepwell built in 1499. Multi-religion carvings representing the synthesis of Hindu and Islamic art.",
+        "Teen Darwaza": "The triple gateway built in 1415. Connected to the royal square and Maidan Shah."
+      }
+    },
+    "polHouses": {
+      "description": "Pols are unique to Ahmedabad and represent one of the world's earliest examples of planned urban housing with communal facilities.",
+      "characteristics": ["Self-governing community clusters", "Shared wells and grain storage", "Community chowk (courtyard)", "Night watchmen system", "Artisan communities", "Intricate wooden carvings identifying family/community identity"],
+      "famousPols": ["Shaking Minarets area", "Manek Chowk area", "Khadia", "Kalupur", "Dariyapur"]
+    },
+    "visitingTips": {
+      "bestTime": "October to March (cooler weather)",
+      "heritageWalk": "Official Heritage Walk departs at 7:30 AM daily from Swaminarayan Temple, Kalupur",
+      "duration": "Full exploration: 2-3 days. Quick tour: 3-4 hours",
+      "mustSee": ["Sidi Saiyyed Mosque jaali", "Teen Darwaza", "Jama Masjid", "Heritage pol walk", "Manek Chowk night market"],
+      "foodTips": "Ahmedabad is famous for its vegetarian cuisine. Must try: Gujarati thali, khandvi, dhokla, and Manek Chowk street food at night"
+    },
+    "conservationChallenges": [
+      "Wooden facades deteriorating due to weather, insects, and lack of maintenance",
+      "Increasing vehicular traffic causing structural vibration",
+      "Population pressure leading to overcrowding of historic structures",
+      "Informal construction and modifications to heritage buildings",
+      "Inadequate storm drainage causing periodic flooding",
+      "Limited awareness among residents about conservation obligations"
+    ]
+  },
+  "modhera_sun_temple": {
+    "name": "Modhera Sun Temple",
+    "status": "Protected Monument under Archaeological Survey of India",
+    "built": "1026-1027 CE during the reign of King Bhimdev I of the Solanki (Chaulukya) dynasty",
+    "location": "Modhera, Mehsana District, Gujarat, India (23.58°N 72.13°E)",
+    "significance": "One of the finest surviving examples of Solanki temple architecture. The temple's precise astronomical alignment and extraordinary sculptural programme make it a masterpiece of medieval Indian art and science.",
+    "keyFacts": [
+      "Built in 1026 CE — nearly 1000 years old",
+      "Designed with precise astronomical alignment: the rising sun illuminates the sanctum on equinoxes",
+      "The Surya Kund has exactly 108 shrines — the sacred number in Hindu tradition",
+      "After Mahmud of Ghazni's invasion, the temple was never used for worship",
+      "Now hosts the Modhera Dance Festival (Uttarayan) — a national cultural event",
+      "Dedicated to Surya, the Sun God"
+    ],
+    "architecture": {
+      "style": "Maru-Gurjara / Solanki (Chaulukya)",
+      "threeParts": {
+        "Kund": "Surya Kund (also called Rama Kunda) — the magnificent stepwell with 108 miniature shrines arranged in tiers around its perimeter",
+        "SabhaMandap": "The assembly hall (sabha mandap) — an elaborately carved open pillared hall used for gatherings and performances",
+        "GarbhaGriha": "The sanctum (garbha griha) — the innermost shrine where the Sun God's idol was placed, aligned for sunrise illumination"
+      },
+      "materials": ["Brownish-yellow sandstone from Saurashtra", "No use of mortar — dry stone construction"],
+      "astronomicalAlignment": "The temple's east-west axis is aligned so that during the summer and winter solstices, and spring and autumn equinoxes, the first rays of the rising sun illuminate the sanctum's central image"
+    },
+    "suryaKund": {
+      "description": "The Surya Kund (stepwell) is a masterpiece of geometric design with tiers of steps descending to a central tank. Around the perimeter are 108 small shrines.",
+      "dimensions": "Approximately 53m x 36m",
+      "shrines": "108 miniature shrines on the terrace",
+      "significance": "The number 108 is sacred in Hindu and Jain traditions. The kund served for ritual bathing and water storage."
+    },
+    "sculptures": {
+      "description": "The temple features an extraordinary programme of stone carvings covering virtually every surface — one of the richest sculptural schemes in Indian art.",
+      "subjects": ["Surya (Sun God) in multiple forms", "Apsaras — celestial dancers in 108 different poses", "Dikpalas — guardians of the eight directions", "Erotic carvings (maithuna) on exterior walls", "Battle scenes", "Floral and geometric ornament", "Elephants, horses, and animals"]
+    },
+    "visitingTips": {
+      "bestTime": "January (Modhera Dance Festival) or October-March",
+      "timings": "6:00 AM - 6:00 PM, all days",
+      "duration": "1-2 hours for a thorough visit",
+      "soundLightShow": "Evening sound and light show (check ASI website for current schedule)",
+      "mustSee": ["Surya Kund at sunrise", "Apsara carvings on Sabha Mandap", "Solar alignment demonstration"],
+      "howToReach": "Modhera is 100 km from Ahmedabad. Regular buses from Mehsana and Ahmedabad."
+    },
+    "conservationChallenges": [
+      "Stone weathering from monsoon rains and extreme summer heat",
+      "Salt crystallization damaging carved surfaces",
+      "Biological growth (algae, moss) on stone, especially near Surya Kund",
+      "Visitor footfall causing surface abrasion on steps and carved panels",
+      "Insufficient drainage around the stepwell leading to moisture accumulation",
+      "Vibration damage from nearby road construction"
+    ]
+  },
+  "conservation_terms": {
+    "consolidation": "Application of chemical or physical treatments to stabilize deteriorating stone or structural elements",
+    "grouting": "Injection of material into cracks to seal and strengthen",
+    "repointing": "Replacement of deteriorated mortar joints",
+    "desalination": "Process of removing soluble salts from masonry to prevent crystallization damage",
+    "biocide": "Chemical treatment to remove and prevent biological growth (algae, moss, lichen)",
+    "NDVI": "Normalized Difference Vegetation Index — satellite imagery analysis technique to measure vegetation coverage",
+    "ASI": "Archaeological Survey of India — the primary body responsible for protecting India's heritage monuments",
+    "bufferZone": "The protected area around a heritage site within which development is restricted",
+    "pol": "Traditional residential cluster unique to Ahmedabad, featuring a communal entrance gate and shared community spaces"
+  },
+  "visitor_guidelines": {
+    "general": [
+      "Respect the heritage structures — do not touch carved surfaces",
+      "Photography is permitted for personal use; commercial photography requires permission",
+      "Follow the designated visitor paths",
+      "Do not litter — carry your waste back",
+      "Dress modestly when visiting religious sites",
+      "Hire an official guide for the most informative experience"
+    ],
+    "ahmedabad": [
+      "Heritage Walk departs at 7:30 AM from Swaminarayan Temple, Kalupur",
+      "Avoid visiting during peak noon hours in summer (temperature can reach 42°C)",
+      "Manek Chowk transforms into a night food market after 9 PM"
+    ],
+    "modhera": [
+      "Visit at sunrise for the best experience of the solar alignment",
+      "The Modhera Dance Festival (January) is the best time to visit",
+      "Climbing on temple structures is prohibited",
+      "Evening sound and light show available most evenings"
+    ]
+  }
+}

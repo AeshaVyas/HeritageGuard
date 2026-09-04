@@ -1,0 +1,174 @@
+{
+  "simulated": true,
+  "label": "DEMO/SIMULATED DATA — Not real sensor readings",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "sensors": [
+    {
+      "id": "sensor-ahm-001",
+      "site": "Ahmedabad Walled City",
+      "structure": "Heritage Building A (Pol House - Khadia)",
+      "type": "environmental",
+      "readings": {
+        "temperature": 34,
+        "humidity": 68,
+        "vibration": 0.31,
+        "crackWidth": 2.4,
+        "moisture": 55,
+        "displacement": 1.2,
+        "deteriorationScore": 42
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 65,
+      "riskLevel": "MODERATE",
+      "location": { "lat": 23.0225, "lng": 72.5714, "zone": "Zone A - Khadia" }
+    },
+    {
+      "id": "sensor-ahm-002",
+      "site": "Ahmedabad Walled City",
+      "structure": "Jama Masjid - Northern Wall",
+      "type": "structural",
+      "readings": {
+        "temperature": 36,
+        "humidity": 72,
+        "vibration": 0.42,
+        "crackWidth": 3.8,
+        "moisture": 63,
+        "displacement": 2.1,
+        "deteriorationScore": 61
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 48,
+      "riskLevel": "HIGH",
+      "location": { "lat": 23.0268, "lng": 72.5752, "zone": "Zone B - Masjid Area" }
+    },
+    {
+      "id": "sensor-ahm-003",
+      "site": "Ahmedabad Walled City",
+      "structure": "Bhadra Fort - Eastern Rampart",
+      "type": "structural",
+      "readings": {
+        "temperature": 33,
+        "humidity": 65,
+        "vibration": 0.18,
+        "crackWidth": 1.2,
+        "moisture": 45,
+        "displacement": 0.8,
+        "deteriorationScore": 28
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 78,
+      "riskLevel": "LOW",
+      "location": { "lat": 23.0267, "lng": 72.5822, "zone": "Zone C - Bhadra" }
+    },
+    {
+      "id": "sensor-mod-001",
+      "site": "Modhera Sun Temple",
+      "structure": "Sun Temple - Main Sanctum",
+      "type": "environmental",
+      "readings": {
+        "temperature": 38,
+        "humidity": 58,
+        "vibration": 0.15,
+        "crackWidth": 1.8,
+        "moisture": 42,
+        "displacement": 0.6,
+        "deteriorationScore": 52
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 62,
+      "riskLevel": "MODERATE",
+      "location": { "lat": 23.5858, "lng": 72.1322, "zone": "Zone A - Main Temple" }
+    },
+    {
+      "id": "sensor-mod-002",
+      "site": "Modhera Sun Temple",
+      "structure": "Surya Kund - Stepwell",
+      "type": "structural",
+      "readings": {
+        "temperature": 37,
+        "humidity": 76,
+        "vibration": 0.12,
+        "crackWidth": 4.2,
+        "moisture": 78,
+        "displacement": 1.9,
+        "deteriorationScore": 68
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 44,
+      "riskLevel": "HIGH",
+      "location": { "lat": 23.5862, "lng": 72.1318, "zone": "Zone B - Surya Kund" }
+    },
+    {
+      "id": "sensor-mod-003",
+      "site": "Modhera Sun Temple",
+      "structure": "Sabha Mandap - Assembly Hall",
+      "type": "environmental",
+      "readings": {
+        "temperature": 35,
+        "humidity": 61,
+        "vibration": 0.22,
+        "crackWidth": 2.9,
+        "moisture": 54,
+        "displacement": 1.4,
+        "deteriorationScore": 58
+      },
+      "thresholds": {
+        "temperature": { "low": 15, "moderate": 30, "high": 38, "critical": 45 },
+        "humidity": { "low": 40, "moderate": 60, "high": 75, "critical": 85 },
+        "vibration": { "low": 0.1, "moderate": 0.25, "high": 0.4, "critical": 0.6 },
+        "crackWidth": { "low": 0.5, "moderate": 1.5, "high": 3.0, "critical": 5.0 },
+        "moisture": { "low": 30, "moderate": 50, "high": 70, "critical": 80 }
+      },
+      "healthScore": 55,
+      "riskLevel": "MODERATE",
+      "location": { "lat": 23.5856, "lng": 72.1325, "zone": "Zone C - Sabha Mandap" }
+    }
+  ],
+  "historicalTrend": [
+    { "date": "2024-01-01", "ahmedabad": 78, "modhera": 71 },
+    { "date": "2024-01-02", "ahmedabad": 76, "modhera": 70 },
+    { "date": "2024-01-03", "ahmedabad": 75, "modhera": 68 },
+    { "date": "2024-01-04", "ahmedabad": 74, "modhera": 67 },
+    { "date": "2024-01-05", "ahmedabad": 73, "modhera": 66 },
+    { "date": "2024-01-06", "ahmedabad": 72, "modhera": 65 },
+    { "date": "2024-01-07", "ahmedabad": 72, "modhera": 64 },
+    { "date": "2024-01-08", "ahmedabad": 71, "modhera": 63 },
+    { "date": "2024-01-09", "ahmedabad": 70, "modhera": 62 },
+    { "date": "2024-01-10", "ahmedabad": 71, "modhera": 61 },
+    { "date": "2024-01-11", "ahmedabad": 72, "modhera": 60 },
+    { "date": "2024-01-12", "ahmedabad": 72, "modhera": 61 },
+    { "date": "2024-01-13", "ahmedabad": 73, "modhera": 62 },
+    { "date": "2024-01-14", "ahmedabad": 72, "modhera": 61 },
+    { "date": "2024-01-15", "ahmedabad": 72, "modhera": 60 }
+  ]
+}

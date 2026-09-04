@@ -1,0 +1,64 @@
+{
+  "simulated": true,
+  "label": "DEMO/SIMULATED DATA — Not real visitor counts",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "sites": [
+    {
+      "siteId": "ahmedabad-walled-city",
+      "siteName": "Ahmedabad Walled City",
+      "capacity": 1000,
+      "currentVisitors": 840,
+      "occupancyPercent": 84,
+      "riskLevel": "HIGH",
+      "entryRate": 45,
+      "exitRate": 32,
+      "areas": [
+        { "name": "Khadia Pol", "capacity": 200, "current": 185, "occupancy": 92.5 },
+        { "name": "Jama Masjid", "capacity": 300, "current": 248, "occupancy": 82.7 },
+        { "name": "Bhadra Fort", "capacity": 250, "current": 210, "occupancy": 84.0 },
+        { "name": "Teen Darwaza", "capacity": 150, "current": 122, "occupancy": 81.3 },
+        { "name": "Sidi Saiyyed Mosque", "capacity": 100, "current": 75, "occupancy": 75.0 }
+      ]
+    },
+    {
+      "siteId": "modhera-sun-temple",
+      "siteName": "Modhera Sun Temple",
+      "capacity": 700,
+      "currentVisitors": 620,
+      "occupancyPercent": 88.6,
+      "riskLevel": "HIGH",
+      "entryRate": 38,
+      "exitRate": 25,
+      "areas": [
+        { "name": "Main Temple", "capacity": 200, "current": 195, "occupancy": 97.5 },
+        { "name": "Surya Kund", "capacity": 250, "current": 212, "occupancy": 84.8 },
+        { "name": "Sabha Mandap", "capacity": 150, "current": 130, "occupancy": 86.7 },
+        { "name": "Museum", "capacity": 100, "current": 83, "occupancy": 83.0 }
+      ]
+    }
+  ],
+  "hourlyPattern": [
+    { "hour": "06:00", "ahmedabad": 120, "modhera": 80 },
+    { "hour": "07:00", "ahmedabad": 210, "modhera": 130 },
+    { "hour": "08:00", "ahmedabad": 350, "modhera": 220 },
+    { "hour": "09:00", "ahmedabad": 520, "modhera": 350 },
+    { "hour": "10:00", "ahmedabad": 680, "modhera": 490 },
+    { "hour": "11:00", "ahmedabad": 820, "modhera": 590 },
+    { "hour": "12:00", "ahmedabad": 840, "modhera": 620 },
+    { "hour": "13:00", "ahmedabad": 780, "modhera": 580 },
+    { "hour": "14:00", "ahmedabad": 720, "modhera": 540 },
+    { "hour": "15:00", "ahmedabad": 650, "modhera": 480 },
+    { "hour": "16:00", "ahmedabad": 580, "modhera": 420 },
+    { "hour": "17:00", "ahmedabad": 420, "modhera": 310 },
+    { "hour": "18:00", "ahmedabad": 280, "modhera": 180 }
+  ],
+  "weeklyTrend": [
+    { "day": "Mon", "ahmedabad": 650, "modhera": 420 },
+    { "day": "Tue", "ahmedabad": 580, "modhera": 380 },
+    { "day": "Wed", "ahmedabad": 620, "modhera": 410 },
+    { "day": "Thu", "ahmedabad": 700, "modhera": 450 },
+    { "day": "Fri", "ahmedabad": 780, "modhera": 520 },
+    { "day": "Sat", "ahmedabad": 950, "modhera": 690 },
+    { "day": "Sun", "ahmedabad": 1000, "modhera": 700 }
+  ]
+}
